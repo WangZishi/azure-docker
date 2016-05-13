@@ -1,0 +1,12 @@
+{
+    "name": "azure-docker",
+    "version": "1.0.0",
+    "description": "demo",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Wang Zishi <ynh.2@outlook.com>",
+    "license": "ISC"
+}
