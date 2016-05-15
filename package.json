@@ -4,12 +4,15 @@
   "description": "demo",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node out/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Wang Zishi <ynh.2@outlook.com>",
   "license": "ISC",
   "dependencies": {
-    "typescript": "^1.8.10"
+  },
+  "devDependencies": {
+    "typescript": "^1.8.10",
+    "tslint": "^3.10.2"
   }
 }
